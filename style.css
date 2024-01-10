@@ -91,6 +91,10 @@
     color: #0f1111;
 }
 .lang-select{
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
     justify-content: center;
     align-items: center;
     display: flex;
